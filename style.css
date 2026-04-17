@@ -136,7 +136,7 @@ margin:auto;
 }
 
 .card{
-background:white;
+background:#FEFAE0;
 padding-bottom:20px;
 }
 
@@ -194,7 +194,7 @@ text-align:left;
 }
 
 #comments-container .comment {
-    background: white;       
+    background: #FEFAE0;       
     padding: 20px;
     border-radius: 12px;
     border-left: 4px solid #a7b48c;
@@ -238,7 +238,7 @@ background:#FAEDCD;
 .review .comment{
 width:50%;
 margin:auto;
-background:white;
+background:#FEFAE0;
 padding:20px;
 border-radius:8px;
 box-shadow:0 3px 10px rgba(0,0,0,0.1);
