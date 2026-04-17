@@ -30,7 +30,7 @@ color:#333;
 }
 
 .review-btn{
-background:#a7b48c;
+background:#CCD5AE;
 border:none;
 padding:8px 15px;
 cursor:pointer;
@@ -148,7 +148,7 @@ filter:grayscale(100%);
 }
 
 .card button{
-background:#a7b48c;
+background:#CCD5AE;
 border:none;
 padding:10px 20px;
 margin-top:10px;
@@ -172,7 +172,7 @@ display:block;
 }
 
 .comment{
-background:a7b48c;
+background:#CCD5AE;
 padding:15px;
 margin:15px auto;
 width:50%;
@@ -255,7 +255,7 @@ font-family:'Montserrat', sans-serif;
 }
 
 .review button{
-background:#a7b48c;
+background:#CCD5AE;
 border:none;
 padding:10px 20px;
 cursor:pointer;
@@ -272,7 +272,7 @@ margin-top:15px;
 }
 
 .btn-wrapper button{
-background:#a7b48c;
+background:#CCD5AE;
 border:none;
 padding:10px 25px;
 cursor:pointer;
